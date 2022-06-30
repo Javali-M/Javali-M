@@ -1,8 +1,7 @@
 <h2 align="center">Hi 👋, I'm Javali Murari</h2>
 
-- 🌱 I’m currently learning **Machine Learning and Backend Web Development.**
+I’m currently learning **Machine Learning and Backend Web Development.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
