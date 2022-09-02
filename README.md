@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋, I'm Javali Murari</h2>
 
+I'm a full stack web developer specialised in MERN stack. I love putting my imagination into web applications.
 I’m currently learning **Machine Learning and Backend Web Development.**
 
 <p align="left">
