@@ -2,6 +2,8 @@
 
 I'm a full stack web developer specialised in MERN stack. I love putting my imagination into web applications.
 I’m currently learning **Machine Learning and Backend Web Development.**
+<br/>
+I'm looking to collaborate on **Open source projects.**
 
 <p align="left">
 </p>
