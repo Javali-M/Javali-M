@@ -4,7 +4,11 @@ I'm a full stack web developer specialised in MERN stack. I love putting my imag
 I’m currently learning **Machine Learning and Backend Web Development.**
 <br/>
 I'm looking to collaborate on **Open source projects.**
+<br/>
 
+My Holopin board
+[![@jm_2's Holopin board](https://holopin.me/jm_2)](https://holopin.io/@jm_2)
+<br/>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
