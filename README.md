@@ -6,7 +6,6 @@ I’m currently learning **Machine Learning and Backend Web Development.**
 I'm looking to collaborate on **Open source projects.**
 <br/>
 
-My Holopin board
 [![@jm_2's Holopin board](https://holopin.me/jm_2)](https://holopin.io/@jm_2)
 <br/>
 <p align="left">
